@@ -3,7 +3,7 @@ package utils
 import (
 	"encoding/json"
 
-	"github.com/jasonsalas/isolate-astros/astros"
+	"github.com/jasonsalas/di-in-go-for-unit-tests/astros"
 )
 
 const (

@@ -3,7 +3,7 @@ package main
 import (
 	"testing"
 
-	"github.com/jasonsalas/isolate-astros/utils"
+	"github.com/jasonsalas/di-in-go-for-unit-tests/utils"
 )
 
 type testWebRequest struct{}

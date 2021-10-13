@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/jasonsalas/isolate-astros/astros"
-	"github.com/jasonsalas/isolate-astros/utils"
+	"github.com/jasonsalas/di-in-go-for-unit-tests/astros"
+	"github.com/jasonsalas/di-in-go-for-unit-tests/utils"
 )
 
 func main() {
